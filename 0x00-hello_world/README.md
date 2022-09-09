@@ -1,2 +1,2 @@
 0-preprocessor
-Write a script that runs a C file through the preprocessor
+file at the root of the repo
