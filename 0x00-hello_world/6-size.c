@@ -13,7 +13,7 @@ int main(void)
 	int i;
 	long li;
 	long line lli;
-	floar f;
+	float f;
 
 	printf("Size of a char: %1d byte(s)\n", sizeof(c));
 	printf("Size of an int: %1d byte(s)\n", sizeof(i));
