@@ -1,2 +1,1 @@
-
-ls
+write scripts for c file
