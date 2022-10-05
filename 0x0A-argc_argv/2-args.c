@@ -1,8 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - prints all arguments it recieves
+ * main - entry point
+ *
+ * Description: a program that prints its name
+ * If you rename a program, it will pirnt the new name
+ * To compile it again
+ *
  * @argc: arguments count
+ *
  * @argv: arguments vector
  *
  * Return: always 0
