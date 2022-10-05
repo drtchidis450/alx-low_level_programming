@@ -2,8 +2,8 @@
 
 /**
  * main - prints all arguments it recieves
- * @argc: number of arguments passed to the function
- * @argv: argument vector of pointers to strings
+ * @argc: arguments count
+ * @argv: arguments vector
  *
  * Return: always 0
  */
