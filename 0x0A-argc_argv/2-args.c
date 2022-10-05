@@ -1,19 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: a program that prints its name
- * If you rename a program, it will pirnt the new name
- * To compile it again
- *
- * @argc: arguments count
- *
- * @argv: arguments vector
+ * main - prints all arguments it receives
+ * @argc: number of arguments passed to the function
+ * @argv: argument vector of pointers to strings
  *
  * Return: always 0
  */
-int main(int agrc, char *agrv[])
+int main(int argc, char *argv[])
 {
 	int i;
 
