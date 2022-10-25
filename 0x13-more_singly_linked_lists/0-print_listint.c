@@ -1,6 +1,6 @@
 /*
  * File: 0-print_listint.c
- * Auth: Eke Patience
+ * Auth: Chidi Ojike
  */
 #include "lists.h"
 #include <stdio.h>
